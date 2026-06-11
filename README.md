@@ -2,7 +2,7 @@
 
 **Platform Engineer · DevOps · OpenShift · Kubernetes · CKA Certified**
 
-[![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com)
+[![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/2b6ebf27-cbb6-4e01-bd5f-10757e5efb93/public_url)
 [![OpenShift](https://img.shields.io/badge/OpenShift-4.x-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)](https://github.com/sourav-ndx)
 [![AWS SAA](https://img.shields.io/badge/AWS_SAA-In_Progress-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/sourav-ndx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-nandy-0115)
