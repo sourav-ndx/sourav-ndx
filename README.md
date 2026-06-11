@@ -11,7 +11,9 @@
 
 ## About
 
-Platform/DevOps Engineer with 8.5 years in telecom infrastructure, currently operating OpenShift 4.x in production for Verizon's SIP-based contact center at Ericsson. I work at the intersection of container platforms, CI/CD pipelines, and production reliability.
+Platform/DevOps Engineer & Solutions Architect with 9+ years in telecom , appication and enterprise infrastructure, currently operating OpenShift 4.x in production for Customers SIP-based contact center at Ericsson. I work at the intersection of container platforms, CI/CD pipelines, and production reliability. 
+
+Beyond the technical work, I lead delivery from an Agile perspective — owning epics, coordinating across client, infrastructure, and network  teams, and driving platform initiatives end to end .
 
 Building in public as I transition deeper into Platform Engineering and SRE.
 
