@@ -38,7 +38,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 | [k8s-kubeadm-gcp](https://github.com/sourav-ndx/k8s-kubeadm-gcp) | Kubernetes cluster built from scratch — kubeadm on GCP, Calico CNI, full upgrade v1.28→v1.29, iptables internals |
 | [ckad-practice](https://github.com/sourav-ndx/ckad-practice) | CKAD exam prep — 33 scenario scripts with setup/verify on Killercoda |
 | [docker-refresher](https://github.com/sourav-ndx/docker-refresher) | Node.js + Dockerfile — concise Docker concepts reference |
-| [June2026_Sourav_Pathnex](https://github.com/sourav-ndx/June2026_Sourav_Pathnex) | Daily DevOps learning log — Ansible, Terraform, K8s, Jenkins with code snippets |
+| [June2026_Sourav_Pathnex](https://github.com/sourav-ndx/June2026_Sourav_Pathnex) | Daily DevOps learning log — Ansible, Terraform, K8s, GITLAB CICD , Shell Scripts with code snippets |
 
 ---
 
