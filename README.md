@@ -3,6 +3,7 @@
 
 [![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/2b6ebf27-cbb6-4e01-bd5f-10757e5efb93/public_url)
 [![OpenShift](https://img.shields.io/badge/OpenShift-4.x-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)](https://github.com/sourav-ndx)
+[![AWS](https://img.shields.io/badge/AWS-EKS_·_VPC_·_IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/sourav-ndx/aws-eks-platform)
 [![AWS SAA](https://img.shields.io/badge/AWS_SAA-In_Progress-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/sourav-ndx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-nandy-0115)
 
@@ -22,11 +23,11 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 
 | Area | Tools |
 |:---|:---|
-| **Container Platforms** | OpenShift 4.x, Kubernetes, Helm, ArgoCD |
-| **CI/CD & GitOps** | GitLab CI (7-stage pipeline), ArgoCD, Trivy, SonarQube, Artifactory |
+| **Container Platforms** | OpenShift 4.x, Kubernetes, EKS, Helm, ArgoCD |
+| **CI/CD & GitOps** | GitLab CI (7-stage pipeline), GitHub Actions (OIDC), ArgoCD, Trivy, SonarQube, Artifactory |
 | **Infrastructure** | Ansible, Terraform, F5 BIG-IP + CIS, MetalLB |
-| **Observability** | Telegraf + InfluxDB + Grafana (TIG Stack), Prometheus |
-| **Cloud** | AWS (SAA prep) — EC2, VPC, S3, IAM, CloudWatch |
+| **Observability** | CloudWatch Container Insights, Fluent Bit, Telegraf + InfluxDB + Grafana (TIG Stack), Prometheus |
+| **Cloud** | AWS — EKS, VPC, ALB, ECR, IAM/IRSA, CloudWatch, S3 |
 | **Scripting** | Bash, Python, YAML, Jinja2, oc, kubectl |
 
 ---
@@ -35,6 +36,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 
 | Repo | What it is |
 |:---|:---|
+| [aws-eks-platform](https://github.com/sourav-ndx/aws-eks-platform) | Production-equivalent 3-tier platform on AWS EKS — VPC, ALB, IRSA, CloudWatch, GitHub Actions CI/CD with OIDC. Zero static credentials anywhere. |
 | [k8s-kubeadm-gcp](https://github.com/sourav-ndx/k8s-kubeadm-gcp) | Kubernetes cluster built from scratch — kubeadm on GCP, Calico CNI, full upgrade v1.28→v1.29, iptables internals |
 | [argocd_gitops](https://github.com/sourav-ndx/argocd_gitops) | GitOps with ArgoCD — nginx, Grafana and Guestbook deployed via Git on a self-built kubeadm cluster. Real debugging, real learnings. |
 | [ckad-practice](https://github.com/sourav-ndx/ckad-practice) | CKAD exam prep — 33 scenario scripts with setup/verify on Killercoda |
@@ -45,6 +47,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 
 ## Currently
 
+- ✅ **AWS EKS Platform** — 3-tier app, VPC design, IRSA, ALB Controller, CloudWatch, GitHub Actions OIDC CI/CD → [aws-eks-platform](https://github.com/sourav-ndx/aws-eks-platform)
 - ✅ Built a **Kubernetes cluster from scratch** — kubeadm on GCP, full control plane, upgraded v1.28→v1.29 → [k8s-kubeadm-gcp](https://github.com/sourav-ndx/k8s-kubeadm-gcp)
 - ✅ **ArgoCD GitOps** on the kubeadm cluster — self-healing, automated sync, real debugging → [argocd_gitops](https://github.com/sourav-ndx/argocd_gitops)
 - 🔵 Preparing for **AWS Solutions Architect Associate**
