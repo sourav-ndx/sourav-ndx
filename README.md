@@ -17,6 +17,9 @@ Beyond the technical work, I lead delivery from an Agile perspective — owning 
 
 Building in public as I transition deeper into Platform Engineering and SRE.
 
+
+
+
 ---
 
 ## What I Build & Operate
@@ -39,8 +42,8 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 | [aws-eks-platform](https://github.com/sourav-ndx/aws-eks-platform) | Production-equivalent 3-tier platform on AWS EKS — VPC, ALB, IRSA, CloudWatch, GitHub Actions CI/CD with OIDC. Zero static credentials anywhere. |
 | [k8s-kubeadm-gcp](https://github.com/sourav-ndx/k8s-kubeadm-gcp) | Kubernetes cluster built from scratch — kubeadm on GCP, Calico CNI, full upgrade v1.28→v1.29, iptables internals |
 | [argocd_gitops](https://github.com/sourav-ndx/argocd_gitops) | GitOps with ArgoCD — nginx, Grafana and Guestbook deployed via Git on a self-built kubeadm cluster. Real debugging, real learnings. |
-| [ckad-practice](https://github.com/sourav-ndx/ckad-practice) | CKAD exam prep — 33 scenario scripts with setup/verify on Killercoda |
 | [docker-refresher](https://github.com/sourav-ndx/docker-refresher) | Node.js + Dockerfile — concise Docker concepts reference |
+| [ckad-practice](https://github.com/sourav-ndx/ckad-practice) | CKAD exam prep — 33 scenario scripts with setup/verify on Killercoda |
 | [June2026_Sourav_Pathnex](https://github.com/sourav-ndx/June2026_Sourav_Pathnex) | Daily DevOps learning log — Ansible, Terraform, K8s, GitLab CI/CD, Shell Scripts with code snippets |
 
 ---
