@@ -46,6 +46,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 | [ckad-practice](https://github.com/sourav-ndx/ckad-practice) | CKAD exam prep — 33 scenario scripts with setup/verify on Killercoda |
 | [June2026_Sourav_Pathnex](https://github.com/sourav-ndx/June2026_Sourav_Pathnex) | Daily DevOps learning log — Ansible, Terraform, K8s, GitLab CI/CD, Shell Scripts with code snippets |
 | [openshift-virtualization-lab](https://github.com/sourav-ndx/openshift-virtualization-lab) | Hands-on OpenShift Virtualization lab — Fedora VM on Red Hat Developer Sandbox, CDI, DataVolumes, real errors and fixes, networking and storage internals documented with screenshots. |
+| [devsecops-pipeline](https://github.com/sourav-ndx/devsecops-pipeline) | Production-grade 11-stage CI/CT pipeline reference — GitLab CI, SonarQube, Trivy CVE scanning, ArgoCD GitOps, air-gapped runner. |
 ---
 
 ## Currently
@@ -54,6 +55,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 - ✅ Built a **Kubernetes cluster from scratch** — kubeadm on GCP, full control plane, upgraded v1.28→v1.29 → [k8s-kubeadm-gcp](https://github.com/sourav-ndx/k8s-kubeadm-gcp)
 - ✅ **ArgoCD GitOps** on the kubeadm cluster — self-healing, automated sync, real debugging → [argocd_gitops](https://github.com/sourav-ndx/argocd_gitops)
 - ✅ **OpenShift Virtualization hands-on lab** — Fedora VM on OCP, CDI, DataVolumes, virt-launcher internals, masquerade networking, 3 real errors documented → [openshift-virtualization-lab](https://github.com/sourav-ndx/openshift-virtualization-lab)
+- ✅ **DevSecOps CI/CT Pipeline** — 11-stage GitLab CI reference implementation, Trivy CVE scanning, SonarQube quality gates, ArgoCD GitOps two-repo model → [devsecops-pipeline](https://github.com/sourav-ndx/devsecops-pipeline)
 - 🔵 Preparing for **AWS Solutions Architect Associate**
 - 📦 Building hands-on **Terraform + Ansible** automation projects
 - 📝 Preparing on Learning to Integrate Python for DevOps 
