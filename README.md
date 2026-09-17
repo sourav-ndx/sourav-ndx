@@ -47,6 +47,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 | [June2026_Sourav_Pathnex](https://github.com/sourav-ndx/June2026_Sourav_Pathnex) | Daily DevOps learning log — Ansible, Terraform, K8s, GitLab CI/CD, Shell Scripts with code snippets |
 | [openshift-virtualization-lab](https://github.com/sourav-ndx/openshift-virtualization-lab) | Hands-on OpenShift Virtualization lab — Fedora VM on Red Hat Developer Sandbox, CDI, DataVolumes, real errors and fixes, networking and storage internals documented with screenshots. |
 | [devsecops-pipeline](https://github.com/sourav-ndx/devsecops-pipeline) | Production-grade 11-stage CI/CT pipeline reference — GitLab CI, SonarQube, Trivy CVE scanning, ArgoCD GitOps, air-gapped runner. |
+| [gitops-helm-argocd-pipeline](https://github.com/sourav-ndx/gitops-helm-argocd-pipeline) | Production-grade GitOps pipeline — ArgoCD + Helm, gated environment promotion across dev, test, prod, Python-driven image tag automation, GitLab CI DevSecOps integration. |
 ---
 
 ## Currently
@@ -56,6 +57,7 @@ Building in public as I transition deeper into Platform Engineering and SRE.
 - ✅ **ArgoCD GitOps** on the kubeadm cluster — self-healing, automated sync, real debugging → [argocd_gitops](https://github.com/sourav-ndx/argocd_gitops)
 - ✅ **OpenShift Virtualization hands-on lab** — Fedora VM on OCP, CDI, DataVolumes, virt-launcher internals, masquerade networking, 3 real errors documented → [openshift-virtualization-lab](https://github.com/sourav-ndx/openshift-virtualization-lab)
 - ✅ **DevSecOps CI/CT Pipeline** — 11-stage GitLab CI reference implementation, Trivy CVE scanning, SonarQube quality gates, ArgoCD GitOps two-repo model → [devsecops-pipeline](https://github.com/sourav-ndx/devsecops-pipeline)
+- ✅ **GitOps Gated Deployment Pipeline** — ArgoCD + Helm, dev → test → prod with manual gates, Python image tag automation, GitLab CI integration → [gitops-helm-argocd-pipeline](https://github.com/sourav-ndx/gitops-helm-argocd-pipeline)
 - 🔵 Preparing for **AWS Solutions Architect Associate**
 - 📦 Building hands-on **Terraform + Ansible** automation projects
 - 📝 Preparing on Learning to Integrate Python for DevOps 
