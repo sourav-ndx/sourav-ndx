@@ -5,8 +5,12 @@
 [![OpenShift](https://img.shields.io/badge/OpenShift-4.x-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)](https://github.com/sourav-ndx)
 [![AWS](https://img.shields.io/badge/AWS-EKS_·_VPC_·_IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/sourav-ndx/aws-eks-platform)
 [![AWS SAA](https://img.shields.io/badge/AWS_SAA-In_Progress-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/sourav-ndx)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://github.com/sourav-ndx/gitops-helm-argocd-pipeline)
+[![Helm](https://img.shields.io/badge/Helm-3.x-0F1689?style=flat-square&logo=helm&logoColor=white)](https://github.com/sourav-ndx/gitops-helm-argocd-pipeline)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/sourav-ndx)
+[![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://github.com/sourav-ndx)
+[![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/sourav-ndx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-nandy-0115)
-
 ---
 
 ## About
